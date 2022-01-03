@@ -58,7 +58,24 @@ namespace AmarCode
                     Console.Write("Invalid Coffee Type");
                 }
 
+                Console.WriteLine("");
 
+                if (choice == "Black Coffee")
+                {
+                    Console.Write("If you want milk with that write Yes or No: ");
+                    string yeOrNo = Console.ReadLine();
+
+                    if (yeOrNo == "Yes".ToUpper())
+                    {
+                        ICoffee blackCoffee = new BlackCoffee();
+                        MilkDecorator coffeWithMilk = new MilkDecorator(blackCoffee);
+                        coffeWithMilk.description();
+                    }
+                    else
+                    {
+                        Console.WriteLine("Okay have a wonderfull day!");
+                    }
+                }
 
 
 

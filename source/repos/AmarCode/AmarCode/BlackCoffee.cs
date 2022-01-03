@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace AmarCode
 {
-    class BlackCoffee : IFactory 
+    class BlackCoffee : IFactory, ICoffee
     {
         public string GetType()
         {
@@ -17,6 +17,11 @@ namespace AmarCode
         {
             return 30;
         }
-       
+
+        public ICoffee description()
+        {
+            return this.description();
+        }
+
     }
 }
