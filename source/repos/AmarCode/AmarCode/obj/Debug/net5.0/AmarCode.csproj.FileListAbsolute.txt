@@ -1,0 +1,16 @@
+C:\Users\Amarl\source\repos\AmarCode\AmarCode\bin\Debug\net5.0\AmarCode.exe
+C:\Users\Amarl\source\repos\AmarCode\AmarCode\bin\Debug\net5.0\AmarCode.deps.json
+C:\Users\Amarl\source\repos\AmarCode\AmarCode\bin\Debug\net5.0\AmarCode.runtimeconfig.json
+C:\Users\Amarl\source\repos\AmarCode\AmarCode\bin\Debug\net5.0\AmarCode.runtimeconfig.dev.json
+C:\Users\Amarl\source\repos\AmarCode\AmarCode\bin\Debug\net5.0\AmarCode.dll
+C:\Users\Amarl\source\repos\AmarCode\AmarCode\bin\Debug\net5.0\ref\AmarCode.dll
+C:\Users\Amarl\source\repos\AmarCode\AmarCode\bin\Debug\net5.0\AmarCode.pdb
+C:\Users\Amarl\source\repos\AmarCode\AmarCode\obj\Debug\net5.0\AmarCode.csproj.AssemblyReference.cache
+C:\Users\Amarl\source\repos\AmarCode\AmarCode\obj\Debug\net5.0\AmarCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amarl\source\repos\AmarCode\AmarCode\obj\Debug\net5.0\AmarCode.AssemblyInfoInputs.cache
+C:\Users\Amarl\source\repos\AmarCode\AmarCode\obj\Debug\net5.0\AmarCode.AssemblyInfo.cs
+C:\Users\Amarl\source\repos\AmarCode\AmarCode\obj\Debug\net5.0\AmarCode.csproj.CoreCompileInputs.cache
+C:\Users\Amarl\source\repos\AmarCode\AmarCode\obj\Debug\net5.0\AmarCode.dll
+C:\Users\Amarl\source\repos\AmarCode\AmarCode\obj\Debug\net5.0\ref\AmarCode.dll
+C:\Users\Amarl\source\repos\AmarCode\AmarCode\obj\Debug\net5.0\AmarCode.pdb
+C:\Users\Amarl\source\repos\AmarCode\AmarCode\obj\Debug\net5.0\AmarCode.genruntimeconfig.cache
